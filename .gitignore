@@ -1,3 +1,8 @@
+# ignore folder
+ignore
+ignore_a
+ignore_b
+
 # Prerequisites
 *.d
 
