@@ -1,6 +1,6 @@
 #include "stdio.h"
 #include "stdlib.h"
-
+/* modifacation , date : 2020/07/26 */
 typedef struct 
 {
     /* data */
